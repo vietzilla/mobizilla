@@ -1,4 +1,4 @@
-package edu.persistence.service;
+package vietzilla.persistence.service;
 
 import java.util.List;
 
@@ -9,7 +9,8 @@ import javax.persistence.TypedQuery;
 import edu.persistence.model.Book;
 
 /**
- *  DAO for Book
+ *  DAO for Book 
+ *  Edit using branch
  */
 @Stateless
 public class BookDao
